@@ -1,33 +1,6 @@
-# Deploying to GitHub Pages
+# Minerva Cookbook (work in progress)
+A website for the Minerva cookbook from M25.
 
-This example supports deploying a statically exported Next.js application to GitHub Pages.
+#purpose: Use food to connect the class of 2025 across time and space.
 
-The `out` directory should not be ignored by version control.
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example github-pages nextjs-github-pages
-# or
-yarn create next-app --example github-pages nextjs-github-pages
-# or
-pnpm create next-app --example github-pages nextjs-github-pages
-```
-
-### Deploy to GitHub Pages
-
-1.  Create a new public GitHub repository.
-1.  Edit `next.config.js` to match your GitHub repository name.
-1.  Push the starter code to the `main` branch.
-1.  Run the `deploy` script (e.g. `npm run deploy`) to create the `gh-pages` branch.
-1.  On GitHub, go to **Settings** > **Pages** > **Branch**, and choose `gh-pages` as the branch with the `/root` folder. Hit **Save**.
-1.  Make a change.
-1.  Run the `deploy` script again to push the changes to GitHub Pages.
-
-Congratulations! You should have a URL like:
-
-```bash
-https://<github-user-name>.github.io/<github-project-name>/
-```
+Our classmates come from over 60 different countries, and throughout our four years we will have lived in seven different countries together. Each person comes to Minerva with their own unique culinary culture, and together all of us use food to learn about the culture we live in. This website and its associated book (in progress) are meant to continue the process of learning about each other and the world whether or not we continue to travel around the world. 
