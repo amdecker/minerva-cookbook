@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import recipeData from './recipe/recipeData';
+import recipeData from './recipes/recipeData';
 
 export default function Home() {
   return (
@@ -14,7 +14,7 @@ export default function Home() {
       </h2>
       {Object.keys(recipeData).map(dishSlug => 
         <div key={dishSlug}>
-          <Link className='underline' href={`/recipe/${dishSlug}`}>{recipeData[dishSlug].name}</Link>
+          <Link className='underline' href={`/recipes/${dishSlug}`}>{recipeData[dishSlug].name}</Link>
         </div> 
       )}
     </div>
