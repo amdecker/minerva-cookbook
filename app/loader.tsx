@@ -1,5 +1,5 @@
 function imageLoader({src}: any) {
-    return `recipedata/images/${src}`; // REPLACE WITH YOUR IMAGE DIRECTORY
+    return src;
   }
   
-  module.exports = imageLoader;
+export default imageLoader;

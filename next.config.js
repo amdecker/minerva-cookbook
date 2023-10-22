@@ -3,8 +3,9 @@ const nextConfig = {
   output: 'export',
   basePath: process.env.NODE_ENV === 'development' ? '' : '/minerva-cookbook', 
   images: {
-    loader: "custom"
-  },
+    loader: "custom",
+    loaderFile: './app/loader.tsx',
+  }
 }
 
 
