@@ -7,7 +7,7 @@ import imageLoader from "../../loader";
 
 const RecipeCard = (props: RecipeData) => {
     return (
-        <div className="max-w-xl w-1/2 rounded shadow-lg bg-stone-300 overflow-y-auto p-4">
+        <div className="max-w-xl rounded shadow-lg bg-stone-300 overflow-y-auto p-4">
             <div className="text-stone-700">
                 <Link href="/"> {"< Back"} </Link>
             </div>
