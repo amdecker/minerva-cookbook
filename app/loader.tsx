@@ -1,5 +1,6 @@
 function imageLoader({src}: any) {
-    return src;
+    const prefix = process.env.NODE_ENV === 'development' ? '' : '/minerva-cookbook'
+    return prefix + src;
   }
   
 export default imageLoader;
