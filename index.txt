@@ -1,6 +1,6 @@
 1:HL["/minerva-cookbook/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/minerva-cookbook/_next/static/css/7f7944503e384184.css","style",{"crossOrigin":""}]
-0:["u_g4HsXsggA5rnCp5h7HP",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/minerva-cookbook/_next/static/css/7f7944503e384184.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/minerva-cookbook/_next/static/css/c5c0be199f3f1de5.css","style",{"crossOrigin":""}]
+0:["eFyQ6SDLlBNdVFUk1wyti",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/minerva-cookbook/_next/static/css/c5c0be199f3f1de5.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[6954,[],""]
 6:I[7264,[],""]
 8:I[8326,["326","static/chunks/326-5ff53c7a63e8966f.js","931","static/chunks/app/page-61855f45a6494cc5.js"],""]
