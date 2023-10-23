@@ -7,7 +7,7 @@ import imageLoader from "../../loader";
 
 const RecipeCard = (props: RecipeData) => {
     return (
-        <div className="max-w-xl rounded shadow-lg bg-stone-300 overflow-y-auto p-4">
+        <div className=" rounded shadow-lg bg-stone-300 overflow-y-auto p-4">
             <div className="text-stone-700">
                 <Link href="/"> {"< Back"} </Link>
             </div>
@@ -15,9 +15,9 @@ const RecipeCard = (props: RecipeData) => {
                 <Image 
                 src={props.image} 
                 alt={props.name} 
-                width={100} 
-                height={100} 
-                className="w-full rounded-full"
+                width={1000} 
+                height={1000} 
+                className="rounded-full"
                 />
             </div>
             <div className="px-6 py-4">
